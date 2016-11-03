@@ -1,6 +1,6 @@
 {
   "name": "Doze",
-  "upload_url":"http://www.baidu.com"
-  "versionCode":101
+  "upload_url":"http://www.baidu.com",
+  "versionCode":101,
   "versionName":"1.0.1"
   }
