@@ -1,12 +1,11 @@
-### Extra rules for @StevenBlack 's hosts project 
-### https://github.com/FadeMind/hosts.extras
-### <SpotifyAds> < B E G I N >
-127.0.0.1 pubads.g.doubleclick.net
-127.0.0.1 securepubads.g.doubleclick.net
-127.0.0.1 www.googletagservices.com
-127.0.0.1 gads.pubmatic.com
-127.0.0.1 ads.pubmatic.com
-127.0.0.1 spclient.wg.spotify.com
-127.0.0.1 val.atm.youku.com
-127.0.0.1 ad.api.3g.youku.com
-### <SpotifyAds> < E N D >
+[
+    {
+        "package_name": "com.youku.phone", 
+        "hosts": [
+            "val.atm.youku.com",
+            "ad.api.3g.youku.com",
+            "spclient.wg.spotify.com",
+            "ads.pubmatic.com"
+        ]
+    }
+]
